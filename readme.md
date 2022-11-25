@@ -1,4 +1,4 @@
-# Three.js Journey
+<h1 align="center">Webpack</h1> 
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
